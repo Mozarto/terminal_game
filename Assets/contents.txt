@@ -1,0 +1,23 @@
+grass_1 {
+WwW
+} grass_1
+
+grass_2 {
+wWw
+} grass_2
+
+grass_3 {
+wWwW
+} grass_3
+
+grass_4 {
+WwWw
+} grass_4
+
+grass_5 {
+WwWwW
+} grass_5
+
+grass_6 {
+wWwWwWw
+} grass_6
